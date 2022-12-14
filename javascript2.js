@@ -1,5 +1,20 @@
-let object1={name:"Rajnit", age:20,address:"Kathmandu"}
+let object1={
+  name:"Rajnit", 
+   age:18,
+    address:"Kathmandu"}
  
-if (object1.name=="Rajnit"){
-alert(object1.name);
-}
+//if (object1.name=="Rajnit" && object1.age>=20){
+ //alert('display');
+//}
+ if (object1.name=="Rajnit" && object1.age>=20){
+    alert('display');
+ }else if (object1.age<19) {
+    alert('show')
+ } else {
+    alert('undefined')
+ }
+
+
+
+
+
