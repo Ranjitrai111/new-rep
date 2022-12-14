@@ -42,6 +42,6 @@
 //console.log(object1["age"],"object1");
 //obj[key] or obj.key
 
-let object1={name:"ranjit",age:12,address:"kathmandu"}
+let object1={name:"ranjit",age:12,address:"kathmandu"};
 console.log(object1["age"],"object1");
 
