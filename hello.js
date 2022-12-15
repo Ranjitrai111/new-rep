@@ -67,14 +67,15 @@
 // car(4,6)
 
 
-let details={ 
-    name:"Rohan",
-    age:5,
-    address:"kathmandu",
-    Roll:20,
+// let details={ 
+//     name:"Rohan",
+//     age:5,
+//     address:"kathmandu",
+//     Roll:20,
 
-    arr:[1,2,3,4,5,6]
+//     arr:[1,2,3,4,5,6]
 
-}
+// }
 
-console.log(details.arr[5])
+// console.log(details.arr[5])
+
