@@ -42,6 +42,39 @@
 //console.log(object1["age"],"object1");
 //obj[key] or obj.key
 
-let object1={name:"ranjit",age:12,address:"kathmandu"};
-console.log(object1["age"],"object1");
+// let object1={name:"ranjit",age:12,address:"kathmandu"};
+// console.log(object1["age"],"object1");
 
+
+// let car={
+//     name:"tesla",
+//     model: 3,
+//     mileage: "500 km/l"
+
+// }
+
+// console.log(car.name,car.model,car.mileage)
+
+// function car(a,b){
+
+// if(b<a){
+//     console.log( "true")
+// }else{
+//     console.log("false")
+// }
+
+// }
+// car(4,6)
+
+
+let details={ 
+    name:"Rohan",
+    age:5,
+    address:"kathmandu",
+    Roll:20,
+
+    arr:[1,2,3,4,5,6]
+
+}
+
+console.log(details.arr[5])
